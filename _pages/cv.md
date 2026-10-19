@@ -1,64 +1,28 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+I am a physics Ph.D. researcher at the University of Delaware specializing in computational plasma physics, solar-wind turbulence, and kinetic magnetic reconnection.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Research areas
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- Solar-wind turbulence and Parker Solar Probe observations
+- Turbulent reconnection and kinetic energy conversion
+- Pressure–strain interactions and multiscale analysis
+- Kelvin–Helmholtz turbulence and MMS observations
+- Particle-in-cell simulations and scientific software
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Technical expertise
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Python, NumPy, xarray, scientific visualization, high-performance computing, P3D/VPIC kinetic simulation diagnostics, and observational data analysis.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Publications and presentations
+
+See the [publications](/publications/) and [talks](/talks/) pages for research outputs.
+
+**Full CV:** Add the latest verified PDF to `files/Goodwill_CV.pdf`, then replace this sentence with `[Download CV (PDF)](/files/Goodwill_CV.pdf)`. Education dates, appointments, and publication records should be copied from your authoritative CV rather than inferred.
