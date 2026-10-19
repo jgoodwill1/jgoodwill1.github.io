@@ -11,7 +11,7 @@ My research is centered on how turbulent space plasmas transfer energy across sc
 
 **Scientific question:** How do observational averaging, turbulence, and local Alfvénic conditions influence our interpretation of near-Sun plasma dynamics?
 
-Using Parker Solar Probe observations, I investigate correlation scales, switchbacks, radial trends, and sub-Alfvénic intervals. A recurring theme is the distinction between physically meaningful scale dependence and analysis choices such as averaging windows and data cadence.
+My published 2026 MNRAS work examines velocity shear, magnetic deflections, and switchback formation near the Alfvénic transition. Using Parker Solar Probe observations, I investigate correlation scales, switchbacks, radial trends, and sub-Alfvénic intervals. A recurring theme is the distinction between physically meaningful scale dependence and analysis choices such as averaging windows and data cadence.
 
 *Methods:* PSP magnetic-field and plasma observations, autocorrelation functions, interval selection, Alfvén Mach number analysis, and comparisons with turbulence scaling arguments.
 
@@ -19,7 +19,7 @@ Using Parker Solar Probe observations, I investigate correlation scales, switchb
 
 **Scientific question:** Where and at what scales is bulk-flow energy converted into particle internal energy in turbulent collisionless plasmas?
 
-Using P3D and VPIC particle-in-cell simulations, I examine the contributions of pressure dilatation and deviatoric pressure–strain interactions, including their spatial intermittency, association with reconnecting structures, and dependence on filtering scale.
+My 2025 *Physics of Plasmas* paper examined nonlinear evolution and energy dissipation in shear-driven collisionless plasma turbulence, building on VPIC simulations performed during my Los Alamos fellowship. Using P3D and VPIC particle-in-cell simulations, I examine the contributions of pressure dilatation and deviatoric pressure–strain interactions, including their spatial intermittency, association with reconnecting structures, and dependence on filtering scale.
 
 $$-\mathbf{P}:\nabla\mathbf{u}=-p\,\theta-\boldsymbol{\Pi}:\mathbf{D}.$$
 

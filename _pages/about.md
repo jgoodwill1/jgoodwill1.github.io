@@ -11,7 +11,7 @@ redirect_from:
 
 **Computational plasma physics · Solar-wind turbulence · Magnetic reconnection**
 
-I am a physics Ph.D. researcher at the University of Delaware studying the dynamics of turbulent plasmas across kinetic and macroscopic scales. My work combines **spacecraft observations, particle-in-cell simulations, statistical analysis, and plasma theory** to understand how magnetic and flow energy are transported and converted in space plasmas.
+I am a **Physics Ph.D. candidate at the University of Delaware (expected Spring 2027)**, working with **Prof. William H. Matthaeus**, and a former **CSES Graduate Research Fellow at Los Alamos National Laboratory** (advisor: Dr. Fan Guo). I study the dynamics of turbulent plasmas across kinetic and macroscopic scales. My work combines **spacecraft observations, particle-in-cell simulations, statistical analysis, and plasma theory** to understand how magnetic and flow energy are transported and converted in space plasmas.
 
 My research focuses on **solar-wind turbulence**, **turbulent magnetic reconnection**, and **pressure–strain-mediated energy conversion**, with an emphasis on connecting physical interpretation to robust, reproducible computational analysis.
 
@@ -42,6 +42,14 @@ I study turbulent boundary layers and plasma energization in magnetopause Kelvin
 My computational work includes high-performance simulation analysis, particle-in-cell data readers, xarray-based diagnostics, statistical filtering, and scientific Python workflows.
 
 [Software and methods →](/software/)
+
+## Selected research experience
+
+- **University of Delaware Space Physics Group** — Research Assistant (2021–present)
+- **Los Alamos National Laboratory, T2–Plasma Astrophysics** — Graduate Research Fellow (2022–2024)
+- **Delaware Space Grant Consortium** — Graduate Fellow (2024–2027)
+
+[Full appointments, education, mentoring, and awards →](/cv/)
 
 ## Research approach
 
